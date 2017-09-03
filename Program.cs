@@ -9,7 +9,9 @@ namespace Comp5202_Problem2_CSharp
          //Start the program with Clear();
          Console.Clear();
          //Program function
+         Console.WriteLine("--------------------------------------------------------------------------");
          Console.WriteLine("This Program will display division table 12 times for the number you enter");
+         Console.WriteLine("--------------------------------------------------------------------------");
          //Var homes
          //Ask user to input a number
          Console.WriteLine("Please enter a number that is below 100");
